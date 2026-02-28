@@ -1,1 +1,1 @@
-# Distirbuted Systems Cse Study
+# Distirbuted Systems Case Study
